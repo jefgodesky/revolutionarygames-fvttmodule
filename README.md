@@ -1,2 +1,2 @@
-# revolutionarygames-lightitems
-A module for Foundry VTT that lets you attach lights to items (like torches, candles, lamps, etc.)
+# Revolutionary Games Foundry VTT Module Template
+Template for how we start with new Foundry VTT modules.
